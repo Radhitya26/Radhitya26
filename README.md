@@ -4,7 +4,6 @@
 
 <div align="center">
 
-### 🚀 Building Scalable Web Systems
 
 Specialized in designing and implementing robust, production-ready web applications that scale. I architect scalable backend systems using modern frameworks (Laravel, Go, Node.js) and craft responsive frontends with React and Next.js, with proven expertise in complex system integrations, real-time data processing, and cloud infrastructure.
 
