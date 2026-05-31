@@ -1,10 +1,10 @@
-<img align="center" alt="Fullstack Developer Banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=1000&lines=Fullstack+Web+Developer;React+%7C+Laravel+%7C+Go;Scalable+Backend+%26+Modern+Frontend+Systems"/>
+<img align="center" alt="Fullstack Developer Banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=1000&lines=Fullstack+Web+Developer"/>
 
 ---
 
 <div align="center">
 
-### 🚀 Fullstack Web Developer | Building Scalable Systems
+### 🚀 Building Scalable Web Systems
 
 Specialized in designing and implementing robust, production-ready web applications that scale. I architect scalable backend systems using modern frameworks (Laravel, Go, Node.js) and craft responsive frontends with React and Next.js, with proven expertise in complex system integrations, real-time data processing, and cloud infrastructure.
 
@@ -198,5 +198,7 @@ I approach every project with pragmatism—evaluating when tools and patterns ge
 <div align="center">
 
 *Fullstack Developer | System Architect | Problem Solver*
+
+*Last updated: May 2026*
 
 </div>
