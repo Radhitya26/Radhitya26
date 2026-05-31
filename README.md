@@ -199,6 +199,4 @@ I approach every project with pragmatism—evaluating when tools and patterns ge
 
 *Fullstack Developer | System Architect | Problem Solver*
 
-*Last updated: May 2026*
-
 </div>
