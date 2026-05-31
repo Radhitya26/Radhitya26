@@ -60,4 +60,4 @@ Fullstack developer specializing in bridging robust web architectures with physi
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Radhitya26&color=6&icon=0)
+[![Profile Views](https://komarev.com/ghpvc/?username=Radhitya26&color=22c55e&style=flat&label=Profile%20Views)](https://github.com/Radhitya26)
