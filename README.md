@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=22C55E&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Radhitya+👋;Fullstack+Web+Developer;I+build+things+that+scale.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=22C55E&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Radhit+👋;Fullstack+Web+Developer;)
 
 <p align="center">
   <a href="mailto:radhityapradana26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -113,13 +113,3 @@ Beyond the web stack, I've built systems that talk to hardware — RFID readers,
 ## 📬 Let's Build Something
 
 Working on something that needs solid foundations? I'm usually up for interesting problems.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhityapradana26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhityamugipradana)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/radhityamp)
-
-*Fullstack Developer · System Architect · Problem Solver*
-
-</div>
