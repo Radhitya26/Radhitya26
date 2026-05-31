@@ -15,13 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a **Fullstack Web Developer**. I spend most of my time on Laravel/Go backends and React/Next.js frontends, and probably too much of it on the layer between them — because that's usually where things quietly break.
-
-I don't pick up tools until I actually need them. I've seen what over-engineering does to a codebase, so I try to keep things readable enough to still make sense six months later — for me, and for whoever works on it next.
-
-Beyond the web stack, I've built systems that talk to hardware — RFID readers, MQTT brokers, sensors — and learned the hard way that physical devices don't respect your error handling. This experience shaped how I think about resilient architectures, real-time data streaming, and graceful degradation.
-
-> *Currently digging into: Advanced Laravel architecture · React performance internals · Distributed system design · Workflow automation patterns*
+I spend most of my time on Laravel and Go backends, React and Next.js frontends, and the layer between them which is usually where things quietly break. I don't reach for new tools until I need them. Over-engineering leaves scars, and I'd rather the codebase still makes sense six months later to whoever's reading it, including me. At some point I built systems that talk to hardware: RFID readers, MQTT brokers, sensors. Physical devices don't respect your error handling, and that experience stuck I think about failure modes and degradation differently now, even on systems that have nothing to do with hardware.
 
 ---
 
@@ -38,7 +32,6 @@ Beyond the web stack, I've built systems that talk to hardware — RFID readers,
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🎨 Frontend
@@ -64,7 +57,6 @@ Beyond the web stack, I've built systems that talk to hardware — RFID readers,
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
@@ -74,13 +66,11 @@ Beyond the web stack, I've built systems that talk to hardware — RFID readers,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 🧪 Testing & Tooling
+### 🧪 Testing
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3F4F75?style=for-the-badge&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ---
 
