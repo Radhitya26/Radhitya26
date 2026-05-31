@@ -175,8 +175,6 @@ I approach every project with pragmatism—evaluating when tools and patterns ge
 
 ## 📬 Get In Touch
 
-<div align="center">
-
 **Let's collaborate on:**
 - Scalable backend architecture design
 - Complex frontend-backend integrations
@@ -197,7 +195,5 @@ I approach every project with pragmatism—evaluating when tools and patterns ge
 <div align="center">
 
 *Fullstack Developer | System Architect | Problem Solver*
-
-*Last updated: May 2026*
 
 </div>
